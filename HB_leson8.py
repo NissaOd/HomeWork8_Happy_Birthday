@@ -1,13 +1,13 @@
 from datetime import datetime, timedelta
 
-birthday_dudes = [{'name': 'Serhii', 'birthday': '1996-05-18'},
-                {'name': 'Abraham', 'birthday': '2003-05-22'},
-                {'name': 'Kolai', 'birthday': '2008-05-11'},
-                {'name': 'Mike', 'birthday': '1983-05-14'},
-                {'name': 'Wonka', 'birthday': '1994-05-24'},
-                {'name': 'Splinter', 'birthday': '1809-05-24'},
-                {'name': 'Sam', 'birthday': '1957-05-23'},
-                {'name': 'Bruce Wayne', 'birthday': '1982-05-27'}]
+birthday_dudes = [{'name': 'Nort', 'birthday': '1996-06-18'},
+                {'name': 'Basi', 'birthday': '2010-06-22'},
+                {'name': 'Nik', 'birthday': '2003-06-11'},
+                {'name': 'Mikel', 'birthday': '1999-06-14'},
+                {'name': 'Boomer', 'birthday': '1924-06-22'},
+                {'name': 'Sloo', 'birthday': '1809-06-24'},
+                {'name': 'Cok', 'birthday': '1946-06-23'},
+                {'name': 'Bieva', 'birthday': '1992-06-31'}]
 
 
 def birthdays_next_week(users: list) -> None:
